@@ -41,7 +41,7 @@ FILES
 3. DATA FILE:
 * ipl.csv - Dataset Used
 
-4. DEPLOYMENT FILE
+4. DEPLOYMENT FILE - Thanks Anuj for the overview of files
 * app.py - Main App file with Dependencies **templates** & **static** 
 * requirement.txt - Freeze enviroment for libraries
 * Procfile - rout file to flask created app  
