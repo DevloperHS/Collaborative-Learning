@@ -26,6 +26,8 @@ PACKAGES USED:
 
 
 FILES:
-* IPL Score Prediction Using Simple Linear Regression.ipynb - Main File With Code
+* IPL Score Prediction Using Simple Linear Regression.ipynb - Code For Implementing Linear Regression
+* IPL Score Prediction Using Simple Linear Regression.ipynb - Code For Implementing Ridgr Regression
 * ipl.csv - Dataset Used
-* ipl_score_predict_model.pkl - Model File , Can Be Pickled
+* ipl_score_predict_model.pkl - Model File For Linear Regresssion , Can Be Pickled
+* ipl_score_predict_ridge_model.pkl - Model File For Ridge Regression , Can Be Pickled
