@@ -20,6 +20,12 @@ Given an IPL Dataset, can u predict the scores of the IPL team Currently Playing
 
 
 PACKAGES USED:
-Pandas
-Scikit Learn
-Jupyter
+* Pandas - For data handling and manipulation
+* Scikit Learn - For model and algorithms
+* Jupyter - Working IDE
+
+
+FILES:
+* IPL Score Prediction Using Simple Linear Regression.ipynb - Main File With Code
+* ipl.csv - Dataset Used
+* ipl_score_predict_model.pkl - Model File , Can Be Pickled
