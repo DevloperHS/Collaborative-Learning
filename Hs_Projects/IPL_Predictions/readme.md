@@ -22,6 +22,7 @@ Given an IPL Dataset, can u predict the scores of the IPL team Currently Playing
 PACKAGES USED:
 * `Pandas` - For data handling and manipulation
 * `Scikit Learn` - For model and algorithms
+* `Flask` - For Webapp Devlopement
 * `Jupyter` - Working IDE
 
 
@@ -39,3 +40,8 @@ FILES
 
 3. DATA FILE:
 * ipl.csv - Dataset Used
+
+4. DEPLOYMENT FILE
+* app.py - Main App file with Dependencies **templates** & **static** 
+* requirement.txt - Freeze enviroment for libraries
+* Procfile - rout file to flask created app  
